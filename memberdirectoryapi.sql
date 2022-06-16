@@ -19,10 +19,26 @@ VALUES
     '555 -253 -4512'
   ),
   (
-    2000,
+    1001,
     'Jane',
     'Brenda',
     '567 Main St',
     'jane@gmail.com',
     '555-451-2575'
+  ),
+(
+    1002,
+    'John',
+    'Tracey',
+    '789 Main St',
+    'john@aol.com',
+    '555-555-2175'
+  ),
+(
+    1003,
+    'Juliet',
+    'Daisy',
+    '8456 Girl Scout Lane',
+    'jlowe@yahoo.com',
+    '555-859-7585'
   );
